@@ -15,6 +15,7 @@ public class AudioManager : MonoBehaviour
     [System.Serializable]
     public struct Emitters
     {
+        public StudioEventEmitter ambience;
         public StudioEventEmitter musicMenu;
         public StudioEventEmitter music;
         public StudioEventEmitter music02;
@@ -31,6 +32,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private EventReference playerJump;
     [SerializeField] private EventReference playerLand;
     [SerializeField] private EventReference playerAttackMelee;
+    [SerializeField] private EventReference PlayerAttackRanged;
     
     [SerializeField] private EventReference playerHurt;
     EventInstance playerFootstepInstance;
