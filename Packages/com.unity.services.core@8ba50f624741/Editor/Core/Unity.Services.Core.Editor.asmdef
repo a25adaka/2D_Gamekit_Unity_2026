@@ -11,7 +11,11 @@
         "Unity.Services.Core.Networking",
         "Unity.Services.Core.Registration",
         "Unity.Services.Core.Scheduler",
-        "Unity.Services.Core.Telemetry"
+        "Unity.Services.Core.Telemetry",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

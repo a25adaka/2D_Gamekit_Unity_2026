@@ -1,7 +1,11 @@
 {
     "name": "UnityEngine.SpatialTracking.Tests",
     "references": [
-        "UnityEngine.SpatialTracking"
+        "UnityEngine.SpatialTracking",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

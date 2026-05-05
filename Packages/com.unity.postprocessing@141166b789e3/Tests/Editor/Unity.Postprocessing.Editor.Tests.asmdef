@@ -2,7 +2,11 @@
     "name": "Unity.Postprocessing.Editor.Tests",
     "references": [
         "Unity.Postprocessing.Runtime",
-        "Unity.Postprocessing.Editor"
+        "Unity.Postprocessing.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

@@ -5,7 +5,9 @@
         "Cinemachine",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Unity.RenderPipelines.HighDefinition.Runtime"
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

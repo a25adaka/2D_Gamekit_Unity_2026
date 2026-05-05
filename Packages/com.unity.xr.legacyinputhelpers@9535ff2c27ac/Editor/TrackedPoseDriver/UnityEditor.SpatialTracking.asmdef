@@ -1,7 +1,11 @@
 {
     "name": "UnityEditor.SpatialTracking",
     "references": [
-        "UnityEngine.SpatialTracking"
+        "UnityEngine.SpatialTracking",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

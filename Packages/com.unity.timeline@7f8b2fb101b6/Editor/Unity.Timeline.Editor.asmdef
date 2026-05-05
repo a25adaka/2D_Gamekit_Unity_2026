@@ -2,7 +2,11 @@
     "name": "Unity.Timeline.Editor",
     "rootNamespace": "",
     "references": [
-        "Unity.Timeline"
+        "Unity.Timeline",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

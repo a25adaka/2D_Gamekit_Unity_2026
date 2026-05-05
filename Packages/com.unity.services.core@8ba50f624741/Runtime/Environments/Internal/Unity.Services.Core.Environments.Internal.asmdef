@@ -1,7 +1,9 @@
 {
     "name": "Unity.Services.Core.Environments.Internal",
     "references": [
-        "Unity.Services.Core.Internal"
+        "Unity.Services.Core.Internal",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,7 +1,9 @@
 {
     "name": "UnityEngine.Purchasing.WinRTStub",
     "references": [
-        "UnityEngine.Purchasing.WinRTCore"
+        "UnityEngine.Purchasing.WinRTCore",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [

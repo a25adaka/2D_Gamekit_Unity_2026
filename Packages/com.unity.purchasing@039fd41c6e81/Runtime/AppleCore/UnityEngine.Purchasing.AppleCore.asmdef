@@ -1,7 +1,9 @@
 {
     "name": "UnityEngine.Purchasing.AppleCore",
     "references": [
-        "Purchasing.Common"
+        "Purchasing.Common",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

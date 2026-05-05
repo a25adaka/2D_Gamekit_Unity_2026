@@ -228,7 +228,10 @@ public class AudioManager : MonoBehaviour
         RuntimeManager.PlayOneShot(playerAttackMelee, transform.position);
     }
 
-	
+	Public Void PlayRanged()
+    {
+        if (PlayerAttackRanged.IsNull)
+    }
 
     public void PlayHurt()
     {

@@ -2,7 +2,9 @@
     "name": "Unity.Services.Core.Configuration",
     "references": [
         "Unity.Services.Core.Internal",
-        "Unity.Services.Core"
+        "Unity.Services.Core",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -6,7 +6,11 @@
         "UnityEngine.SpatialTracking",
         "Unity.RenderPipelines.HighDefinition.Runtime",
         "Unity.RenderPipelines.Universal.Runtime",
-        "Unity.InputSystem"
+        "Unity.InputSystem",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

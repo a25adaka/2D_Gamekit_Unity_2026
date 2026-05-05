@@ -2,7 +2,11 @@
     "name": "Unity.PlasticSCM.Editor.Entities",
     "references": [
         "Unity.PlasticSCM.Editor",
-        "Unity.Scenes"
+        "Unity.Scenes",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

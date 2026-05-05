@@ -1,7 +1,11 @@
 {
     "name": "Unity.2D.Sprite.Package.EditorTests",
     "references": [
-        "Unity.2D.Sprite.Editor"
+        "Unity.2D.Sprite.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

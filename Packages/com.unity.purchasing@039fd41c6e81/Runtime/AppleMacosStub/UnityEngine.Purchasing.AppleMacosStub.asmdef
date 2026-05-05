@@ -3,7 +3,9 @@
     "rootNamespace": "",
     "references": [
         "Purchasing.Common",
-        "UnityEngine.Purchasing.AppleCore"
+        "UnityEngine.Purchasing.AppleCore",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [

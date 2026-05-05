@@ -6,7 +6,9 @@
         "Unity.Services.Core",
         "Unity.Services.Core.Environments",
         "Unity.Services.Core.Internal",
-        "Unity.Services.Analytics"
+        "Unity.Services.Analytics",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

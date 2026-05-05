@@ -1,7 +1,8 @@
 {
     "name": "UnityEngine.Advertisements",
     "references": [
-        "UnityEngine.UI"
+        "UnityEngine.UI",
+        "UnityEditor.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
