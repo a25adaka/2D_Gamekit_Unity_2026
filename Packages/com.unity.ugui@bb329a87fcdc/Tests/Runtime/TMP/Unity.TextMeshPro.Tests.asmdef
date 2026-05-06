@@ -1,11 +1,7 @@
 {
     "name": "Unity.TextMeshPro.Tests",
     "references": [
-        "Unity.TextMeshPro",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.TextMeshPro"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

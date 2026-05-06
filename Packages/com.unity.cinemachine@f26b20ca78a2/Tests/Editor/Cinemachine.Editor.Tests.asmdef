@@ -2,11 +2,7 @@
     "name": "Cinemachine.Editor.Tests",
     "references": [
         "Cinemachine",
-        "com.unity.cinemachine.editor",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "com.unity.cinemachine.editor"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

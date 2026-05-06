@@ -4,11 +4,7 @@
     "references": [
         "Unity.Postprocessing.Runtime",
         "Unity.XR.Management",
-        "Unity.XR.Management.Editor",
-        "UnityEditor.UI",
-        "UnityEngine.UI",
-        "UnityEditor.TestRunner",
-        "UnityEngine.TestRunner"
+        "Unity.XR.Management.Editor"
     ],
     "includePlatforms": [
         "Editor"

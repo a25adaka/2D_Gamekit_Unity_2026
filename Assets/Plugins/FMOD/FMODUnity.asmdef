@@ -4,9 +4,7 @@
         "Unity.Timeline",
         "Unity.Addressables",
         "Unity.ResourceManager",
-        "Unity.RenderPipelines.Universal.Runtime",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.RenderPipelines.Universal.Runtime"
 
     ],
     "includePlatforms": [],

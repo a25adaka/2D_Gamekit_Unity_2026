@@ -3,9 +3,7 @@
     "references": [
         "Unity.Services.Core",
         "UnityEngine.Purchasing",
-        "UnityEngine.Purchasing.Stores",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "UnityEngine.Purchasing.Stores"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

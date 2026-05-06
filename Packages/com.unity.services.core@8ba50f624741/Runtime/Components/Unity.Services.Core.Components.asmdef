@@ -3,9 +3,7 @@
     "references": [
         "Unity.Services.Core",
         "Unity.Services.Core.Internal",
-        "Unity.Services.Core.Environments",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.Services.Core.Environments"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

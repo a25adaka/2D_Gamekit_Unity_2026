@@ -2,11 +2,7 @@
     "name": "Unity.CollabProxy.Editor",
     "rootNamespace": "",
     "references": [
-        "Unity.PlasticSCM.Editor",
-        "UnityEditor.UI",
-        "UnityEngine.UI",
-        "UnityEditor.TestRunner",
-        "UnityEngine.TestRunner"
+        "Unity.PlasticSCM.Editor"
     ],
     "includePlatforms": [
         "Editor"

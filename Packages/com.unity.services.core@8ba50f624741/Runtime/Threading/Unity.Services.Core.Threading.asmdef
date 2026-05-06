@@ -2,9 +2,7 @@
     "name": "Unity.Services.Core.Threading",
     "references": [
         "Unity.Services.Core",
-        "Unity.Services.Core.Internal",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.Services.Core.Internal"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

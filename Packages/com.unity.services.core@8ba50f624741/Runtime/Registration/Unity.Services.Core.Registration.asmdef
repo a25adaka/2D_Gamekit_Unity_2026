@@ -11,9 +11,7 @@
         "Unity.Services.Core",
         "Unity.Services.Core.Telemetry",
         "Unity.Services.Core.Scheduler",
-        "Unity.Services.Core.Threading",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.Services.Core.Threading"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

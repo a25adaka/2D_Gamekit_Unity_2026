@@ -6,11 +6,7 @@
         "Unity.Services.Core.Editor",
         "Unity.Services.Core.Configuration.Editor",
         "Unity.Services.Core.Environments",
-        "Unity.Services.Core",
-        "UnityEditor.UI",
-        "UnityEngine.UI",
-        "UnityEditor.TestRunner",
-        "UnityEngine.TestRunner"
+        "Unity.Services.Core"
     ],
     "includePlatforms": [
         "Editor"

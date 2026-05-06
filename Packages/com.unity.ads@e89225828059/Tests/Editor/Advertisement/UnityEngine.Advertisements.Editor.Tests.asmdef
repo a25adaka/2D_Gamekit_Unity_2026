@@ -2,11 +2,7 @@
     "name": "UnityEngine.Advertisements.Editor.Tests",
     "references": [
         "UnityEngine.Advertisements",
-        "UnityEngine.Advertisements.Editor",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "UnityEngine.Advertisements.Editor"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

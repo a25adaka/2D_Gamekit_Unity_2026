@@ -2,11 +2,7 @@
     "name": "Unity.Multiplayer.Center.Editor",
     "rootNamespace": "Unity.Multiplayer.Center",
     "references": [
-        "Unity.Multiplayer.Center.Common",
-        "UnityEditor.UI",
-        "UnityEngine.UI",
-        "UnityEditor.TestRunner",
-        "UnityEngine.TestRunner"
+        "Unity.Multiplayer.Center.Common"
     ],
     "includePlatforms": [
         "Editor"

@@ -7,11 +7,7 @@
         "Unity.Services.Core",
         "Unity.Services.Analytics",
         "Unity.Services.DeploymentApi",
-        "Unity.Services.Core.Environments.Editor",
-        "UnityEditor.UI",
-        "UnityEngine.UI",
-        "UnityEditor.TestRunner",
-        "UnityEngine.TestRunner"
+        "Unity.Services.Core.Environments.Editor"
     ],
     "includePlatforms": [
         "Editor"

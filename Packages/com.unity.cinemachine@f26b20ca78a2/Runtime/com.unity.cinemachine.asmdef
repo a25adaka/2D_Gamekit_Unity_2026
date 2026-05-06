@@ -10,9 +10,7 @@
         "Unity.RenderPipelines.Universal.Runtime",
         "Unity.2D.PixelPerfect",
         "Unity.InputSystem",
-        "Unity.RenderPipelines.Universal.2D.Runtime",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.RenderPipelines.Universal.2D.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

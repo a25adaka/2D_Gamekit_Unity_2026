@@ -3,10 +3,7 @@
     "references": [
         "UnityEngine.Advertisements",
         "UnityEngine.Monetization",
-        "UnityEngine.UI",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI"
+        "UnityEngine.UI"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

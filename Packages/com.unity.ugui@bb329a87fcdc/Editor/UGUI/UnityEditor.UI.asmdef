@@ -2,9 +2,7 @@
     "name": "UnityEditor.UI",
  
     "references": [
-      "UnityEngine.UI",
-      "UnityEditor.TestRunner",
-      "UnityEngine.TestRunner"
+      "UnityEngine.UI"
     ],
     "includePlatforms": [
         "Editor"

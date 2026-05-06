@@ -6,9 +6,7 @@
         "UnityEditor.TestRunner",
         "Unity.Multiplayer.Center.Editor",
         "Unity.Multiplayer.Center.Common",
-        "Unity.Multiplayer.Center.Integrations",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.Multiplayer.Center.Integrations"
     ],
     "includePlatforms": [
         "Editor"

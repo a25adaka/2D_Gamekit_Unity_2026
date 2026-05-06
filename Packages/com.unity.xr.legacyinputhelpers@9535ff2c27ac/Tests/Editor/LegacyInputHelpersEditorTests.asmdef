@@ -1,11 +1,7 @@
 {
   "name": "UnityEditor.XR.LegacyInputHelpers.Tests",
     "references": [
-        "UnityEditor.XR.LegacyInputHelpers",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI",
-        "UnityEngine.UI"   
+        "UnityEditor.XR.LegacyInputHelpers"   
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

@@ -2,9 +2,7 @@
     "name": "UnityEngine.Purchasing.SecurityStub",
     "rootNamespace": "",
     "references": [
-        "UnityEngine.Purchasing.SecurityCore",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "UnityEngine.Purchasing.SecurityCore"
     ],
     "includePlatforms": [
         "Editor",

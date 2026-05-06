@@ -1,11 +1,7 @@
 {
     "name": "Unity.Postprocessing.Runtime.Tests",
     "references": [
-        "Unity.Postprocessing.Runtime",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "UnityEditor.UI",
-        "UnityEngine.UI"
+        "Unity.Postprocessing.Runtime"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
