@@ -304,20 +304,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   combatTimerLength: 3
   eventEmitters:
+    ambience: {fileID: 0}
     musicMenu: {fileID: 110158806593295546}
     music: {fileID: 5158617837186310920}
     music02: {fileID: 8933774022352548864}
     musicBoss: {fileID: 3257842776572977270}
     musicPause: {fileID: 4860983653683116548}
-    ambiance: {fileID: 0}
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1918490284
+      Data2: 1234235421
+      Data3: -2056278095
+      Data4: -758173214
+    Path: event:/SFX/Avatar_FX/Avatar_Run
   playerJump:
     Guid:
       Data1: 0
@@ -334,18 +334,18 @@ MonoBehaviour:
     Path: 
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1739832235
+      Data2: 1295129290
+      Data3: 189224368
+      Data4: 576807417
+    Path: event:/SFX/Avatar_FX/Avatar_Attack_Melee
   playerAttackRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1086684910
+      Data2: 1234723713
+      Data3: -2072640374
+      Data4: -2100755797
+    Path: event:/SFX/Avatar_FX/Avatar_Attack_Ranged
   playerHurt:
     Guid:
       Data1: 0
@@ -355,11 +355,11 @@ MonoBehaviour:
     Path: 
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -175344793
+      Data2: 1277381885
+      Data3: 874643346
+      Data4: 267540887
+    Path: event:/SFX/Enviromental_FX/Object_FX/Wall_Destroyed
   pickupHealth:
     Guid:
       Data1: 0
