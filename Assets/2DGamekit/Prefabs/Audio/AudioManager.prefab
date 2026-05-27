@@ -376,18 +376,18 @@ MonoBehaviour:
     Path: 
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -816637249
+      Data2: 1285025701
+      Data3: -738622279
+      Data4: -1215655311
+    Path: event:/SFX/Enviromental_FX/Object_FX/Door open
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1749632319
+      Data2: 1329826046
+      Data3: 1363497363
+      Data4: -1025533648
+    Path: event:/SFX/Enviromental_FX/Object_FX/Pickup_key
   pressurePad:
     Guid:
       Data1: 0
