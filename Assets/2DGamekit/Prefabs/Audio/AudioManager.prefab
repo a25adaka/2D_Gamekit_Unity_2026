@@ -348,11 +348,11 @@ MonoBehaviour:
     Path: event:/SFX/Avatar_FX/Avatar_Attack_Ranged
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1077757536
+      Data2: 1313072626
+      Data3: 1225420180
+      Data4: 908944884
+    Path: event:/SFX/Avatar_FX/Avatar_Damage
   wallDestroy:
     Guid:
       Data1: -175344793
