@@ -397,11 +397,11 @@ MonoBehaviour:
     Path: event:/SFX/Enviromental_FX/Object_FX/Pressure_plate
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -70812045
+      Data2: 1298407678
+      Data3: 514193826
+      Data4: -1880890841
+    Path: event:/SFX/Enviromental_FX/AcidPool_Splash
   boxPush:
     Guid:
       Data1: 1117819247
